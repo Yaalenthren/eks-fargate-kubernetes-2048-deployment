@@ -166,6 +166,4 @@ eksctl delete cluster --name demo-cluster --region us-east-1
 
 ---
 
-## Author
 
-DevOps learning project created as part of my cloud and Kubernetes learning journey.
