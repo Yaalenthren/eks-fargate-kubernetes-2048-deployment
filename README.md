@@ -59,6 +59,8 @@ eks-fargate-kubernetes-2048-deployment
 │   ├── alb-created.png
 │   ├── ingress-output.png
 │   └── game-running.png
+├── docs
+    └── setup-steps.md
 ```
 
 ---
